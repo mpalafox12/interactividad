@@ -1,0 +1,11 @@
+@import url('https://use.typekit.net/xgy1qym.css');
+
+:root {
+    --amarillo: #e7e513;
+    --gris-oscuro: #353535;
+    --gris-claro: #c5c4c4;
+
+    --font-titulos: "antarctican-mono", sans-serif;
+    --font-cuerpo: "early-sans-variable", sans-serif;
+
+}
